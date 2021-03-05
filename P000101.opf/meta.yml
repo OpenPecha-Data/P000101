@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000101
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྐུ་གསུམ་ངོ་སྤྲོད་ཀྱི་རྣམ་པར་བཤད་པ་མདོ་རྒྱུད་བསྟན་པ་ཐ་དག་གི་ཨེ་ཝཾ་ཕྱག་རྒྱ།
     །
   authors:
   - མཛད་པ་པོ། ༧ཀརྨ་པ་མི་བསྐྱོད་རྡོ་རྗེ།
-  sku: VVI-MD-003-2
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: VVI-MD-003-2
 web_metadata:
   title:
     en: E-Wam Mahamudra That Embodies All Sutra and Tantra Teaching:An Introduction
